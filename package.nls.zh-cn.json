@@ -1,0 +1,8 @@
+{
+  "displayName": "网络检测器",
+  "description": "检测网络连接状态",
+  "configuration.title": "网络检测器",
+  "configuration.properties.networkDetector.targetAddress.description": "检测地址",
+  "configuration.properties.networkDetector.checkInterval.description": "检测间隔时间（毫秒）",
+  "configuration.properties.networkDetector.statusIcon.description": "状态显示图标"
+}
