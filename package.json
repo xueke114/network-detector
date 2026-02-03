@@ -1,8 +1,9 @@
 {
   "name": "network-detector",
   "displayName": "Network Detector",
-  "description": "检测网络连接状态",
+  "description": "检测互联网网络连接状态",
   "version": "0.0.1",
+  "publisher": "xueke114",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -45,7 +46,7 @@
     "translations": [
       {
         "languageId": "zh-cn",
-        "path": "package.nls.zh-cn.json"
+        "path": "locales/package.nls.zh-cn.json"
       }
     ]
   },
