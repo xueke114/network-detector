@@ -5,6 +5,6 @@
   "configuration.properties.networkDetector.targetAddress.description": "Target address",
   "configuration.properties.networkDetector.checkInterval.description": "Check interval (milliseconds)",
   "configuration.properties.networkDetector.statusIcon.description": "Status icon",
-  "status.internet.connected": "Internet connection normal",
-  "status.internet.disconnected": "Internet connection abnormal"
+  "Internet connection normal": "Internet connection normal",
+  "Internet connection abnormal": "Internet connection abnormal"
 }

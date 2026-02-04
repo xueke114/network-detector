@@ -49,11 +49,11 @@ class NetworkDetector {
         if (this.isOnline) {
             this.statusBarItem.text = icon;
             this.statusBarItem.color = '#4CAF50';
-            this.statusBarItem.tooltip = vscode.l10n.t('status.internet.connected');
+            this.statusBarItem.tooltip = vscode.l10n.t('Internet connection normal');
         } else {
             this.statusBarItem.text = icon;
             this.statusBarItem.color = '#FFC107';
-            this.statusBarItem.tooltip = vscode.l10n.t('status.internet.disconnected');
+            this.statusBarItem.tooltip = vscode.l10n.t('Internet connection abnormal');
         }
     }
 

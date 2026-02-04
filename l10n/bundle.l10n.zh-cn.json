@@ -5,6 +5,6 @@
   "configuration.properties.networkDetector.targetAddress.description": "检测地址",
   "configuration.properties.networkDetector.checkInterval.description": "检测间隔时间（毫秒）",
   "configuration.properties.networkDetector.statusIcon.description": "状态图标",
-  "status.internet.connected": "互联网连接正常",
-  "status.internet.disconnected": "互联网连接异常"
+  "Internet connection normal": "互联网连接正常",
+  "Internet connection abnormal": "互联网连接异常"
 }

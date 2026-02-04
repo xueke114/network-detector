@@ -7,6 +7,7 @@
   "engines": {
     "vscode": "^1.74.0"
   },
+  "l10n": "./l10n",
   "categories": [
     "Other"
   ],
@@ -34,21 +35,7 @@
           "description": "状态显示图标"
         }
       }
-    },
-    "languages": [
-      {
-        "id": "network-detector",
-        "extensions": [
-          ".json"
-        ]
-      }
-    ],
-    "translations": [
-      {
-        "languageId": "zh-cn",
-        "path": "locales/package.nls.zh-cn.json"
-      }
-    ]
+    }
   },
   "scripts": {
     "vscode:prepublish": "npm run compile",
